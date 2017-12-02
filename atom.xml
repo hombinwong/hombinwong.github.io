@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>HombinWong&#39;s Blog</title>
   
-  
+  <subtitle>HombinWong&#39;s Blog~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wanghongbin.top/"/>
@@ -10,7 +10,7 @@
   <id>http://www.wanghongbin.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>HombinWong</name>
     
   </author>
   
@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Sat Dec 02 2017 20:24:58 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
+        &lt;!-- build time:Sat Dec 02 2017 21:27:24 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
       
     
     </summary>
