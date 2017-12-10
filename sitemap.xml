@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wanghongbin.top/2017/12/10/%E4%BD%BF%E7%94%A8Hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2017-12-10T14:20:31.564Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wanghongbin.top/about/index.html</loc>
     
     <lastmod>2017-12-04T07:59:31.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wanghongbin.top/tags/index.html</loc>
+    
+    <lastmod>2017-11-28T13:15:42.920Z</lastmod>
     
   </url>
   
@@ -16,9 +30,16 @@
   </url>
   
   <url>
-    <loc>http://www.wanghongbin.top/2017/11/28/hello-world/</loc>
+    <loc>http://www.wanghongbin.top/links/index.html</loc>
     
-    <lastmod>2017-11-28T13:00:33.487Z</lastmod>
+    <lastmod>2017-11-28T13:15:42.917Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wanghongbin.top/categories/index.html</loc>
+    
+    <lastmod>2017-11-28T13:15:42.915Z</lastmod>
     
   </url>
   
