@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wanghongbin.top/2017/12/28/Spring%20Data%20JPA%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3%E4%BB%8B%E7%BB%8D%E5%8F%8A%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</loc>
+    
+    <lastmod>2018-01-07T15:16:11.958Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wanghongbin.top/2017/12/13/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98pure%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%95/</loc>
     
-    <lastmod>2017-12-13T03:38:18.161Z</lastmod>
+    <lastmod>2018-01-01T13:41:25.295Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.wanghongbin.top/2017/12/10/%E4%BD%BF%E7%94%A8Hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2017-12-12T08:11:52.774Z</lastmod>
+    <lastmod>2018-01-01T13:38:39.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wanghongbin.top/2017/12/30/Spring%20Data%20JPA%E5%88%86%E9%A1%B5%E5%92%8C%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2018-01-01T13:38:26.127Z</lastmod>
     
   </url>
   
@@ -40,6 +54,13 @@
     <loc>http://www.wanghongbin.top/categories/index.html</loc>
     
     <lastmod>2017-11-28T13:15:42.915Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wanghongbin.top/books/index.html</loc>
+    
+    <lastmod>2017-11-28T13:15:42.914Z</lastmod>
     
   </url>
   
