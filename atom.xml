@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wanghongbin.top/"/>
-  <updated>2018-01-01T13:38:26.127Z</updated>
+  <updated>2018-04-03T14:32:31.707Z</updated>
   <id>http://www.wanghongbin.top/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring Boot集成Redis做缓存</title>
+    <link href="http://www.wanghongbin.top/2018/01/20/Spring%20Boot%E9%9B%86%E6%88%90Redis%E5%81%9A%E7%BC%93%E5%AD%98/"/>
+    <id>http://www.wanghongbin.top/2018/01/20/Spring Boot集成Redis做缓存/</id>
+    <published>2018-01-20T03:36:09.000Z</published>
+    <updated>2018-04-03T14:32:31.707Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Spring-Cache抽象&quot;&gt;&lt;a href=&quot;#Spring-Cache抽象&quot; class=&quot;headerlink&quot; title=&quot;Sp
+      
+    
+    </summary>
+    
+      <category term="后端开发" scheme="http://www.wanghongbin.top/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Spring Boot" scheme="http://www.wanghongbin.top/tags/Spring-Boot/"/>
+    
+      <category term="Redis" scheme="http://www.wanghongbin.top/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL5.7安装</title>
+    <link href="http://www.wanghongbin.top/2017/12/30/MySQL5.7%E5%AE%89%E8%A3%85/"/>
+    <id>http://www.wanghongbin.top/2017/12/30/MySQL5.7安装/</id>
+    <published>2017-12-30T03:36:09.000Z</published>
+    <updated>2018-04-03T14:33:33.980Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;下载安装&quot;&gt;&lt;a href=&quot;#下载安装&quot; class=&quot;headerlink&quot; title=&quot;下载安装&quot;&gt;&lt;/a&gt;下载安装&lt;/h2&gt;&lt;p&gt;
+      
+    
+    </summary>
+    
+      <category term="后端开发" scheme="http://www.wanghongbin.top/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="MySQL" scheme="http://www.wanghongbin.top/tags/MySQL/"/>
+    
+  </entry>
   
   <entry>
     <title>Spring Data JPA分页和排序</title>
@@ -27,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Sun Jan 07 2018 23:23:47 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Sort类和Pageable类介绍&quot;&gt;&lt;a href=&quot;#Sort类和Pageable类介绍&quot; class=&quot;headerlink&quot; tit
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Sort类和Pageable类介绍&quot;&gt;&lt;a href=&quot;#Sort类和Pageable类介绍&quot; class=&quot;headerlink&quot; tit
       
     
     </summary>
@@ -50,7 +98,7 @@
     
       
       
-        &lt;!-- build time:Sun Jan 07 2018 23:23:47 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Repository接口及其子接口介绍&quot;&gt;&lt;a href=&quot;#Repository接口及其子接口介绍&quot; class=&quot;headerlink&quot;
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Repository接口及其子接口介绍&quot;&gt;&lt;a href=&quot;#Repository接口及其子接口介绍&quot; class=&quot;headerlink&quot;
       
     
     </summary>
@@ -73,7 +121,7 @@
     
       
       
-        &lt;!-- build time:Sun Jan 07 2018 23:23:47 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;配置文件说明&quot;&gt;&lt;a href=&quot;#配置文件说明&quot; class=&quot;headerlink&quot; title=&quot;配置文件说明&quot;&gt;&lt;/a&gt;配置文件说明
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;配置文件说明&quot;&gt;&lt;a href=&quot;#配置文件说明&quot; class=&quot;headerlink&quot; title=&quot;配置文件说明&quot;&gt;&lt;/a&gt;配置文件说明
       
     
     </summary>
@@ -96,7 +144,7 @@
     
       
       
-        &lt;!-- build time:Sun Jan 07 2018 23:23:47 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;安装Hexo&quot;&gt;&lt;a href=&quot;#安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;安装Hexo&quot;&gt;&lt;/a&gt;安装Hexo
+        &lt;!-- build time:Tue Apr 03 2018 22:51:08 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;安装Hexo&quot;&gt;&lt;a href=&quot;#安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;安装Hexo&quot;&gt;&lt;/a&gt;安装Hexo
       
     
     </summary>

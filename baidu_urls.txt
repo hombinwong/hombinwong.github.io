@@ -1,1 +1,1 @@
-http://www.wanghongbin.top/2017/12/30/Spring Data JPA分页和排序/
+http://www.wanghongbin.top/2018/01/20/Spring Boot集成Redis做缓存/
